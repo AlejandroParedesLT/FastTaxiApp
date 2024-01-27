@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "921669849815",
+    "project_id": "mobileappaplt",
+    "storage_bucket": "mobileappaplt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921669849815:android:4ddaf8d3a169bdc8a6d692",
+        "android_client_info": {
+          "package_name": "com.rutasapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921669849815-paji5i32vg4fgpbjurqiv32h5otu3p95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHfmiuLOmdrHUJbdwCNrmiTrqYUq9Pwpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921669849815-o2lavv27rs3st6bmh6sj0q4rasjgcv89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
