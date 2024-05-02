@@ -18,8 +18,3 @@ export const PermissionsScreen = () => {
   );
 };
 
-// API Key
-//AIzaSyDG4MtZNIwGzjC5JAyIAWnGIdegMSzMBjs
-
-// API Key 2
-// AIzaSyByDMSWN4Dw386r5wQ2Htvrj734YW451gk

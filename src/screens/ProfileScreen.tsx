@@ -5,6 +5,11 @@ export const ProfileScreen = () => {
     return (
         <View>
             <Text>Profile</Text>
+            <Text>Profile</Text>
+            <Text>Profile</Text>
+            <Text>Profile</Text>
+            <Text>Profile</Text>
+            <Text>Profile</Text>
         </View>
     );
 };
